@@ -1,0 +1,35 @@
+{
+  "$GMProject":"",
+  "%Name":"video_not_playing_without_gpu",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"grc.mp4","CopyToMask":-1,"filePath":"datafiles","name":"grc.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.600.0.563",
+  },
+  "name":"video_not_playing_without_gpu",
+  "resources":[
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":null,
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
